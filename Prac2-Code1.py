@@ -9,7 +9,7 @@ e. Write a Python script to concatenate following dictionaries to create a new o
 '''
 
 """ Student ID: 20CE153
-    Student Name : SHRUTI UNADKAT 
+    Student Name : SHRUTI UNADKAT
 """
 #Python script to check whether a given key already exists in a dictionary.
 #Dictionary name is Student and keys are ID, Age etc.
